@@ -1,9 +1,12 @@
 ### Hi there 👋
+- INHA Univ. Industrial engineering
 
 [![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=operam427)](https://github.com/operam427/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=operam427)](https://github.com/operam427/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=operam427&repo=github-readme-stats)](https://github.com/operam427/github-readme-stats)
 
 <!--
 **operam427/operam427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
