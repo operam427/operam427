@@ -1,7 +1,7 @@
 ### Hi there 👋
 - INHA Univ. Industrial engineering
 
-[![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=operam427)](https://github.com/operam427/github-readme-stats)
+<!-- [![Yurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=operam427)](https://github.com/operam427/github-readme-stats) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=operam427)](https://github.com/operam427/github-readme-stats)
